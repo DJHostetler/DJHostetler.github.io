@@ -2,7 +2,7 @@
 layout: post
 title: HEC-RAS and Open Source Software
 ---
-[_config.yaml]
+[_config.yml]
 #HEC-RAS and Open Source Software#
 
 
