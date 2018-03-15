@@ -2,7 +2,7 @@
 layout: post
 title: HEC-RAS and Open Source Software
 ---
-##HEC-RAS and Open Source Software##
+##HEC-RAS and Open Source Software ##
 
 
 What does open source geospatial have to do with the US Army Corps of Engineer’s latest hydraulic modeling software HEC-RAS 5 (with 2D goodness!)?  Well it turns out that the popular open source geospatial library known as GDAL is a critical part of the expanding functionality in [HEC-RAS 5](http://www.hec.usace.army.mil/software/hec-ras/ "HEC RAS 5").  Every install of HEC-RAS 5.0 comes packaged with a version of GDAL inside.  As an engineer who solves spatial problems, it’s exciting to see the US Army Corps marry the standard tool for open channel hydraulics with one of my favorite swiss army geospatial libraries. 
